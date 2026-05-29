@@ -202,6 +202,19 @@ After 5 months, a Ryle's tube was designed for short-term use. Ask the doctor ab
 
 ## 5. Medication Interactions
 
+### CRITICAL — Renal Function Must Be Monitored for Dabigatran
+
+Dabigatran is 80% cleared by the kidneys. In a bedridden 85-year-old, kidney function can decline silently — causing dangerous drug accumulation and severe bleeding risk even at a standard dose.
+
+| Test | Why | How Often |
+|---|---|---|
+| **Serum Creatinine** | Measures kidney waste clearance | At least every 3 months |
+| **eGFR / CrCl (Cockcroft-Gault)** | Determines if Dabigatran dose is still appropriate | Every blood test |
+
+> If eGFR drops below 30 ml/min, Dabigatran is generally contraindicated — an alternative anticoagulant must be used. This is one of the most important ongoing safety checks for this patient.
+
+---
+
 ### CRITICAL — Dabigatran Cannot Be Given Via NG Tube
 
 | Problem | Detail |
@@ -216,13 +229,13 @@ After 5 months, a Ryle's tube was designed for short-term use. Ask the doctor ab
 
 ### Significant Interactions
 
-#### 1. Silodosin + Dabigatran — Increased Bleeding Risk
+#### 1. Silodosin + Dabigatran — Indirect Bleeding Risk
 
 | Detail | |
 |---|---|
-| **Mechanism** | Silodosin inhibits P-glycoprotein (P-gp), a transporter that clears Dabigatran from the body |
-| **Effect** | Higher Dabigatran blood levels than intended — increased bleeding risk |
-| **Signs to watch** | Unusual bruising, blood in urine or stool, prolonged bleeding from small cuts |
+| **Correction** | Silodosin does NOT meaningfully raise Dabigatran blood levels through P-gp inhibition — the earlier claim on this mechanism was incorrect |
+| **Actual risk** | Both drugs independently lower blood pressure — increasing dizziness, fall risk, and injury. Any injury in a patient on Dabigatran carries significant bleeding risk |
+| **Signs to watch** | Unusual bruising, blood in urine or stool, prolonged bleeding from small cuts, dizziness on sitting up |
 
 #### 2. Multiple Medications Lowering Blood Pressure
 
@@ -263,7 +276,7 @@ Eye drops in elderly patients are absorbed systemically more than in younger peo
 | Eye Drop | Systemic Effect |
 |---|---|
 | **Timolol (Ganfort)** | Bradycardia, fatigue, worsening of breathing, hypotension — can worsen weakness significantly |
-| **Brimonidine (Simbrinza)** | Sedation, fatigue, low blood pressure, dry mouth — CNS depression |
+| **Brimonidine (Simbrinza)** | Sedation, fatigue, low blood pressure, dry mouth — CNS depression. Uncommon in most patients but risk is significantly higher in frail elderly, low body weight, renal impairment, and when multiple CNS-active drugs are present — all of which apply here |
 
 **Technique to reduce systemic absorption:** After each drop, press the inner corner of the eye (near nose) for 1–2 minutes — blocks nasolacrimal duct.
 
@@ -274,7 +287,7 @@ Eye drops in elderly patients are absorbed systemically more than in younger peo
 | Priority | Issue | Action |
 |---|---|---|
 | **Urgent** | Dabigatran via NG tube is unsafe | Discuss alternative anticoagulant with doctor immediately |
-| **High** | Silodosin + Dabigatran bleeding risk | Doctor to review both |
+| **Medium** | Silodosin + Dabigatran — indirect fall/bleed risk | Both lower BP; monitor for dizziness and falls |
 | **High** | Levodopa timing around tube feed | Pause feed 30–60 min before and after each Syndopa dose |
 | **High** | Multiple BP-lowering medications causing weakness | Doctor to review eye drops and Silodosin |
 | **Medium** | Calcium and Levodopa timing | Separate by 1–2 hours |
@@ -295,10 +308,11 @@ These block dopamine and can cause dramatic, sometimes irreversible worsening. A
 | **Metoclopramide (Perinorm, Reglan)** | Blocks dopamine — severe rigidity, crisis | Nausea, vomiting, gastric emptying |
 | **Haloperidol** | Strong dopamine blocker — catastrophic in Parkinson's | Agitation, delirium, hiccups |
 | **Prochlorperazine (Stemetil)** | Dopamine blocker | Nausea, dizziness, vertigo |
-| **Olanzapine, Risperidone** | Dopamine blockers despite being "atypical" | Agitation, sleep, psychiatric symptoms |
+| **Risperidone** | Dopamine blocker — worsens Parkinson's motor symptoms | Agitation, psychiatric symptoms |
+| **Olanzapine** | Often worsens motor symptoms — generally avoid, though not an absolute contraindication like Haloperidol | Agitation, sleep, psychiatric symptoms |
 | **Chlorpromazine** | Strong dopamine blocker | Nausea, hiccups, agitation |
 
-> If antipsychotic is absolutely needed: only **Quetiapine (low dose)** or **Clozapine** are relatively safer in Parkinson's.
+> If antipsychotic is absolutely needed: **Quetiapine (low dose)** is commonly used and relatively safer. **Clozapine** is the most effective for Parkinson's psychosis but requires regular blood monitoring. **Pimavanserin** is specifically approved for Parkinson's disease psychosis in some countries — worth asking the neurologist about.
 > For nausea: **Domperidone** is the only safe alternative to Metoclopramide.
 
 ---
@@ -324,7 +338,7 @@ These block dopamine and can cause dramatic, sometimes irreversible worsening. A
 |---|---|
 | **NSAIDs** (Ibuprofen, Diclofenac, Naproxen) | Significantly increase bleeding — avoid completely |
 | **Aspirin** | Adds to bleeding risk unless specifically prescribed for cardiac reason |
-| **Fluoroquinolone antibiotics** (Ciprofloxacin, Levofloxacin) | Interact with Dabigatran — flag to doctor if antibiotics prescribed |
+| **Fluoroquinolone antibiotics** (Ciprofloxacin, Levofloxacin) | Minor interaction with Dabigatran — much less important than NSAIDs or strong P-gp inhibitors (e.g. Verapamil, Dronedarone). Flag to doctor but not a contraindication |
 
 ---
 
@@ -402,17 +416,17 @@ Multiple medications with mild anticholinergic effects add up — cumulative eff
 | Finding | Detail |
 |---|---|
 | **THC lowers intraocular pressure** | Well established — but CBD is not THC |
-| **CBD may slightly RAISE eye pressure** | Some studies show CBD can counteract the IOP-lowering effect of THC and may independently raise IOP in some patients |
-| **Patient is already on three glaucoma drops** | Adding something that may raise IOP is a risk |
-| **Recommendation** | Discuss specifically with the ophthalmologist before using any CBD product — avoid products containing any THC |
+| **CBD and IOP — mixed evidence** | Some studies suggest CBD may raise IOP or counteract THC's IOP-lowering effect; others show minimal effect. Evidence is genuinely conflicting — do not assume benefit or assume harm |
+| **Most glaucoma specialists do not recommend cannabinoids** | As a glaucoma therapy — the evidence is insufficient to recommend it for this purpose |
+| **Recommendation** | Use cautiously — discuss with ophthalmologist before any CBD use. Avoid CBD+THC combined products. Do not use CBD as a substitute for prescribed glaucoma drops |
 
-#### 2. CBD + Dabigatran — Bleeding Risk
+#### 2. CBD + Dabigatran — Possible Interaction, Limited Evidence
 
 | Detail | |
 |---|---|
-| **CBD inhibits CYP3A4 and CYP2C9 enzymes** | These enzymes help break down Dabigatran |
-| **Effect** | CBD can raise Dabigatran blood levels — increasing bleeding risk |
-| **Recommendation** | Only consider oral CBD if anticoagulation is under close medical monitoring |
+| **Correction** | Earlier claim that CBD raises Dabigatran levels via CYP3A4/CYP2C9 was incorrect — Dabigatran is not primarily metabolised by those enzymes |
+| **Actual concern** | CBD may theoretically increase Dabigatran exposure through P-glycoprotein (P-gp) transporter effects, but strong clinical evidence is currently lacking |
+| **Recommendation** | Theoretical concern remains — only consider oral CBD if anticoagulation is under close medical monitoring |
 
 #### 3. CBD + Levodopa (Syndopa Plus)
 
@@ -430,7 +444,7 @@ Given the NG tube, drug interactions, and frailty — topical CBD is the safest 
 
 | Form | Suitability | Why |
 |---|---|---|
-| **CBD topical cream or oil** | Best first option | Applied to skin — no systemic drug interactions, no effect on Dabigatran or glaucoma, good for local muscle rigidity and joint pain |
+| **CBD topical cream or oil** | Best first option | Applied to skin — lower systemic absorption than oral CBD. Cannot be guaranteed completely free of systemic effects in a frail elderly patient, but represents meaningfully lower risk. Good for local muscle rigidity and joint pain |
 | **CBD oil (sublingual/NG tube)** | Only with doctor's approval | Has systemic effects — benefits are greater but so are interaction risks |
 | **CBD capsules** | Only with doctor's approval | Same as above |
 | **CBD gummies** | Not suitable | Cannot be given via NG tube |
@@ -465,7 +479,7 @@ Given the NG tube, drug interactions, and frailty — topical CBD is the safest 
 
 ## 8. Home Care Routines
 
-### 8.\1 Positioning and Pressure Ulcer Prevention
+### 8.1 Positioning and Pressure Ulcer Prevention
 
 This is the single most important physical care routine. Pressure sores can develop within 2–4 hours on a bony area.
 
@@ -482,7 +496,7 @@ This is the single most important physical care routine. Pressure sores can deve
 
 ---
 
-### 8.\1 NG Tube Care
+### 8.2 NG Tube Care
 
 | Task | How Often | Detail |
 |---|---|---|
@@ -498,7 +512,7 @@ This is the single most important physical care routine. Pressure sores can deve
 
 ---
 
-### 8.\1 Oral Care — Critical for Aspiration Pneumonia Prevention
+### 8.3 Oral Care — Critical for Aspiration Pneumonia Prevention
 
 Bacteria in the mouth cause lung damage when secretions are aspirated.
 
@@ -512,7 +526,7 @@ Bacteria in the mouth cause lung damage when secretions are aspirated.
 
 ---
 
-### 8.\1 Eye Medication Routine
+### 8.4 Eye Medication Routine
 
 | Rule | Detail |
 |---|---|
@@ -525,20 +539,20 @@ Bacteria in the mouth cause lung damage when secretions are aspirated.
 
 ---
 
-### 8.\1 Medication Administration Via NG Tube
+### 8.5 Medication Administration Via NG Tube
 
 | Rule | Detail |
 |---|---|
 | **Each medication separately** | Never mix medications in the tube |
 | **Flush between each medication** | 10–15ml water between each drug |
-| **Check which tablets can be crushed** | Confirm with pharmacist for each one. Dabigatran must NOT be crushed |
+| **Check NG tube suitability for every medication** | Every drug in this patient's list needs individual verification with a pharmacist — not just Dabigatran. Formulation type (capsule, coated tablet, modified-release) determines whether crushing is safe |
 | **Syndopa Plus timing** | Pause tube feed 30–60 minutes before and after each dose |
 | **Never delay Syndopa Plus** | Set alarms — even 30-minute delays cause noticeable stiffness |
 | **Keep a medication log** | Record exact time of each dose — helps identify if weakness correlates with missed doses |
 
 ---
 
-### 8.\1 Bowel and Bladder Care
+### 8.6 Bowel and Bladder Care
 
 | Task | How Often | Detail |
 |---|---|---|
@@ -550,7 +564,7 @@ Bacteria in the mouth cause lung damage when secretions are aspirated.
 
 ---
 
-### 8.\1 Physiotherapy Routine at Home
+### 8.7 Physiotherapy Routine at Home
 
 | Exercise | How Often | How To Do It |
 |---|---|---|
@@ -562,7 +576,7 @@ Bacteria in the mouth cause lung damage when secretions are aspirated.
 
 ---
 
-### 8.\1 Nutrition and Tube Feeding
+### 8.8 Nutrition and Tube Feeding
 
 | Task | Detail |
 |---|---|
@@ -574,7 +588,7 @@ Bacteria in the mouth cause lung damage when secretions are aspirated.
 
 ---
 
-### 8.\1 Respiratory Care
+### 8.9 Respiratory Care
 
 | Task | How Often | Detail |
 |---|---|---|
@@ -586,7 +600,7 @@ Bacteria in the mouth cause lung damage when secretions are aspirated.
 
 ---
 
-### 8.\10 Mental and Emotional Wellbeing
+### 8.10 Mental and Emotional Wellbeing
 
 | Approach | Detail |
 |---|---|
@@ -599,7 +613,7 @@ Bacteria in the mouth cause lung damage when secretions are aspirated.
 
 ---
 
-### 8.\11 When to Call the Doctor Immediately
+### 8.11 When to Call the Doctor Immediately
 
 | Sign | Possible Cause |
 |---|---|
@@ -615,7 +629,7 @@ Bacteria in the mouth cause lung damage when secretions are aspirated.
 
 ---
 
-### 8.\12 Daily Care Schedule
+### 8.12 Daily Care Schedule
 
 | Time | Task |
 |---|---|
@@ -632,16 +646,19 @@ Bacteria in the mouth cause lung damage when secretions are aspirated.
 | Priority | Topic |
 |---|---|
 | 1 | Switch Dabigatran to crushable/injectable alternative for NG tube |
-| 2 | Flag Metoclopramide and all dopamine-blocking antiemetics as contraindicated |
-| 3 | Blood tests — B12, Magnesium, Haemoglobin, Renal function, Vitamin D |
-| 4 | Confirm or add laxative regimen |
-| 5 | Add Domperidone if gastroparesis or nausea present |
-| 6 | Review anticholinergic burden (ACB score) across all medications |
-| 7 | Assess for depression — consider Sertraline |
-| 8 | Pressure ulcer and DVT prevention protocols |
-| 9 | SLT referral for swallowing assessment |
-| 10 | Review Silodol if urinary catheter is in place |
-| 11 | Discuss PEG tube if NG tube feeding to continue long term |
+| 2 | Check renal function (Creatinine + eGFR) — critical for Dabigatran safety; if eGFR below 30 it must be stopped |
+| 3 | Verify NG tube suitability with pharmacist for every medication in the list |
+| 4 | Flag Metoclopramide and all dopamine-blocking antiemetics as contraindicated |
+| 5 | Blood tests — B12, Magnesium, Haemoglobin, Renal function, Vitamin D |
+| 6 | Confirm or add laxative regimen |
+| 7 | Add Domperidone if gastroparesis or nausea present |
+| 8 | Review anticholinergic burden (ACB score) across all medications |
+| 9 | Assess for depression — consider Sertraline |
+| 10 | Pressure ulcer and DVT prevention protocols |
+| 11 | SLT referral for swallowing assessment |
+| 12 | Review Silodol if urinary catheter is in place |
+| 13 | Discuss PEG tube if NG tube feeding to continue long term |
+| 14 | Ask neurologist about Pimavanserin if psychiatric symptoms develop |
 
 ---
 
