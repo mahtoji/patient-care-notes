@@ -16,7 +16,8 @@
 4. [Swallowing — SLT Assessment and Recovery](#4-swallowing--slt-assessment-and-recovery)
 5. [Medication Interactions](#5-medication-interactions)
 6. [Medications to Avoid and Add](#6-medications-to-avoid-and-add)
-7. [Home Care Routines](#7-home-care-routines)
+7. [CBD — Over the Counter Options](#7-cbd--over-the-counter-options)
+8. [Home Care Routines](#8-home-care-routines)
 
 ---
 
@@ -368,9 +369,103 @@ Multiple medications with mild anticholinergic effects add up — cumulative eff
 
 ---
 
-## 7. Home Care Routines
+## 7. CBD — Over the Counter Options
 
-### 7.1 Positioning and Pressure Ulcer Prevention
+### Legal and Availability Status in India
+
+| Status | Detail |
+|---|---|
+| **Hemp-derived CBD (under 0.3% THC)** | Legal in India under FSSAI guidelines as a food supplement — available without prescription |
+| **Available in Delhi** | Yes — several brands sell online and in select wellness/pharmacy stores |
+| **Medical CBD (prescription)** | Not yet widely established in India but evolving |
+| **Quality control** | Variable — product labeling and actual concentration may not always match. Stick to established brands |
+
+---
+
+### Potential Benefits for This Patient
+
+| Condition | How CBD May Help | Evidence Level |
+|---|---|---|
+| **Parkinson's — rigidity and tremor** | May reduce muscle stiffness and tremor through endocannabinoid system | Moderate — small human studies show modest benefit |
+| **Parkinson's — sleep disturbance** | Improves sleep quality and reduces REM sleep behaviour disorder common in Parkinson's | Reasonable evidence |
+| **Parkinson's — anxiety and agitation** | Calming effect without blocking dopamine — safe unlike antipsychotics | Good evidence |
+| **Pain from prolonged bed rest** | Anti-inflammatory and analgesic properties — joint and muscle pain relief | Good evidence |
+| **Post-pneumonia inflammation** | Reduces residual lung inflammation | Early but promising evidence |
+| **General neuroprotection** | Some evidence of slowing neurodegeneration in Parkinson's animal models | Preliminary |
+
+---
+
+### Important Concerns for This Specific Patient
+
+#### 1. GLAUCOMA — Caution
+
+| Finding | Detail |
+|---|---|
+| **THC lowers intraocular pressure** | Well established — but CBD is not THC |
+| **CBD may slightly RAISE eye pressure** | Some studies show CBD can counteract the IOP-lowering effect of THC and may independently raise IOP in some patients |
+| **Patient is already on three glaucoma drops** | Adding something that may raise IOP is a risk |
+| **Recommendation** | Discuss specifically with the ophthalmologist before using any CBD product — avoid products containing any THC |
+
+#### 2. CBD + Dabigatran — Bleeding Risk
+
+| Detail | |
+|---|---|
+| **CBD inhibits CYP3A4 and CYP2C9 enzymes** | These enzymes help break down Dabigatran |
+| **Effect** | CBD can raise Dabigatran blood levels — increasing bleeding risk |
+| **Recommendation** | Only consider oral CBD if anticoagulation is under close medical monitoring |
+
+#### 3. CBD + Levodopa (Syndopa Plus)
+
+| Detail | |
+|---|---|
+| **Generally considered compatible** | CBD does not block dopamine pathways |
+| **May complement levodopa** | Reduces dyskinesias (involuntary movements) in some Parkinson's patients on long-term levodopa |
+| **Timing** | Separate from Syndopa Plus by 1–2 hours as a precaution |
+
+---
+
+### Safest Form for This Patient
+
+Given the NG tube, drug interactions, and frailty — topical CBD is the safest starting point:
+
+| Form | Suitability | Why |
+|---|---|---|
+| **CBD topical cream or oil** | Best first option | Applied to skin — no systemic drug interactions, no effect on Dabigatran or glaucoma, good for local muscle rigidity and joint pain |
+| **CBD oil (sublingual/NG tube)** | Only with doctor's approval | Has systemic effects — benefits are greater but so are interaction risks |
+| **CBD capsules** | Only with doctor's approval | Same as above |
+| **CBD gummies** | Not suitable | Cannot be given via NG tube |
+
+---
+
+### Reputable Brands Available in Delhi
+
+| Brand | Notes |
+|---|---|
+| **Hempstreet** | Well established Indian brand, has both topical and oral products, doctor consultation available through their platform |
+| **Boheco (Bombay Hemp Company)** | One of the oldest and most regulated Indian hemp brands |
+| **Ananta Hemp Works** | Good quality, available online and in some Delhi stores |
+| **India Hemp Organics** | Has topical balms suitable as a starting option |
+| **Trost** (by Hempstreet) | Specifically formulated for pain and sleep |
+
+> Most are available on their own websites and on Amazon India with delivery to Delhi. Some are available in wellness stores in South Delhi and Connaught Place area.
+
+---
+
+### Practical Recommendations for This Patient
+
+| Recommendation | Detail |
+|---|---|
+| **Start with CBD topical balm** | Apply to stiff muscles (shoulders, back, limbs) during passive physiotherapy — safe, no interactions, gives pain and rigidity relief locally |
+| **Discuss oral CBD with neurologist** | Benefits for sleep, anxiety, and rigidity are real — but needs sign-off given Dabigatran interaction |
+| **Ask ophthalmologist specifically** | About IOP and CBD before using anything orally |
+| **Avoid CBD+THC combined products** | Pure CBD only — THC-CBD interaction on IOP is unfavourable for a glaucoma patient |
+| **Start very low dose if oral approved** | 5–10mg CBD once daily is a sensible starting dose for a frail elderly patient |
+
+---
+
+## 8. Home Care Routines
+
+### 8.\1 Positioning and Pressure Ulcer Prevention
 
 This is the single most important physical care routine. Pressure sores can develop within 2–4 hours on a bony area.
 
@@ -387,7 +482,7 @@ This is the single most important physical care routine. Pressure sores can deve
 
 ---
 
-### 7.2 NG Tube Care
+### 8.\1 NG Tube Care
 
 | Task | How Often | Detail |
 |---|---|---|
@@ -403,7 +498,7 @@ This is the single most important physical care routine. Pressure sores can deve
 
 ---
 
-### 7.3 Oral Care — Critical for Aspiration Pneumonia Prevention
+### 8.\1 Oral Care — Critical for Aspiration Pneumonia Prevention
 
 Bacteria in the mouth cause lung damage when secretions are aspirated.
 
@@ -417,7 +512,7 @@ Bacteria in the mouth cause lung damage when secretions are aspirated.
 
 ---
 
-### 7.4 Eye Medication Routine
+### 8.\1 Eye Medication Routine
 
 | Rule | Detail |
 |---|---|
@@ -430,7 +525,7 @@ Bacteria in the mouth cause lung damage when secretions are aspirated.
 
 ---
 
-### 7.5 Medication Administration Via NG Tube
+### 8.\1 Medication Administration Via NG Tube
 
 | Rule | Detail |
 |---|---|
@@ -443,7 +538,7 @@ Bacteria in the mouth cause lung damage when secretions are aspirated.
 
 ---
 
-### 7.6 Bowel and Bladder Care
+### 8.\1 Bowel and Bladder Care
 
 | Task | How Often | Detail |
 |---|---|---|
@@ -455,7 +550,7 @@ Bacteria in the mouth cause lung damage when secretions are aspirated.
 
 ---
 
-### 7.7 Physiotherapy Routine at Home
+### 8.\1 Physiotherapy Routine at Home
 
 | Exercise | How Often | How To Do It |
 |---|---|---|
@@ -467,7 +562,7 @@ Bacteria in the mouth cause lung damage when secretions are aspirated.
 
 ---
 
-### 7.8 Nutrition and Tube Feeding
+### 8.\1 Nutrition and Tube Feeding
 
 | Task | Detail |
 |---|---|
@@ -479,7 +574,7 @@ Bacteria in the mouth cause lung damage when secretions are aspirated.
 
 ---
 
-### 7.9 Respiratory Care
+### 8.\1 Respiratory Care
 
 | Task | How Often | Detail |
 |---|---|---|
@@ -491,7 +586,7 @@ Bacteria in the mouth cause lung damage when secretions are aspirated.
 
 ---
 
-### 7.10 Mental and Emotional Wellbeing
+### 8.\10 Mental and Emotional Wellbeing
 
 | Approach | Detail |
 |---|---|
@@ -504,7 +599,7 @@ Bacteria in the mouth cause lung damage when secretions are aspirated.
 
 ---
 
-### 7.11 When to Call the Doctor Immediately
+### 8.\11 When to Call the Doctor Immediately
 
 | Sign | Possible Cause |
 |---|---|
@@ -520,7 +615,7 @@ Bacteria in the mouth cause lung damage when secretions are aspirated.
 
 ---
 
-### 7.12 Daily Care Schedule
+### 8.\12 Daily Care Schedule
 
 | Time | Task |
 |---|---|
