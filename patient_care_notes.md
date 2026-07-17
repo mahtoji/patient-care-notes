@@ -18,6 +18,7 @@
 6. [Medications to Avoid and Add](#6-medications-to-avoid-and-add)
 7. [CBD — Over the Counter Options](#7-cbd--over-the-counter-options)
 8. [Home Care Routines](#8-home-care-routines)
+9. [Professional Home Care Services](#9-professional-home-care-services)
 
 ---
 
@@ -638,6 +639,86 @@ Bacteria in the mouth cause lung damage when secretions are aspirated.
 | **Afternoon** | Tube feed, medications, sit upright if tolerated, music or conversation, skin check |
 | **Evening** | Oral care, eye drops, medications, passive physiotherapy, reposition |
 | **Night** | Reposition every 2 hours, maintain head elevation, monitor breathing |
+
+---
+
+## 9. Professional Home Care Services
+
+### What Type of Service Is Actually Needed
+
+Given this patient's condition — bedridden, NG tube fed, minimal communication, extreme fatigue, Parkinsonism — the priority is **medical management, comfort, and preventing complications** (bedsores, aspiration pneumonia, tube blockages), not talk-therapy-style psychological counselling. The needed service is **Palliative Home Nursing** plus **24/7 Attendant Care**. Palliative care does still include psychological support — comfort and presence for the patient, and counselling/support for the family — but it is delivered as part of nursing care, not as a separate psychology service.
+
+### Palliative Home Nursing — Key Responsibilities
+
+| Area | What the Nurse/Caregiver Does |
+|---|---|
+| **NG (Ryle's) tube management** | Flushing to prevent blockages, administering feeds/medication safely, monitoring for infection or displacement |
+| **Bedside care** | Turning every 2 hours to prevent bedsores, sponge bathing, oral care |
+| **Parkinson's support** | Managing rigidity, passive limb movements to prevent contractures, monitoring breathing/swallowing reflexes |
+| **Symptom management** | Monitoring vitals, managing pain or agitation |
+
+A **trained nurse (GNM/BSc)** or a **highly skilled palliative caregiver**, visiting daily or staying 24/7, is the appropriate staffing level.
+
+### Providers to Contact (Delhi/Noida)
+
+> **Note:** Contact details and service scope should be re-verified directly with each agency before committing — these change over time and were not independently confirmed.
+
+| Provider | Focus | Contact |
+|---|---|---|
+| **MAX@Home** (Noida/Delhi) | Palliative care with multidisciplinary team (doctors + nurses); pain, Ryle's tube care, end-of-life comfort | [maxathome.in — Palliative Care Delhi](https://www.maxathome.in/service/palliative-care-at-home/delhi) |
+| **Emoha Elder Care** | Palliative nursing with tele-monitoring; trained for advanced Parkinson's and tube feeding | 1800-203-5135 |
+| **AtHomeCare India** | 24/7 patient attendants and nurses for bedridden care, Noida/Greater Noida; feeding-tube-trained staff | +91 99108 23218 |
+| **Portea Medical** | Home ICU and palliative packages — doctor visits, nursing, physiotherapy | 1800-121-2323 |
+| **Olive Elder Care** (Sector 48, Noida) | Palliative care for seniors with serious illness — nursing and companion care | +91 80973 02413 |
+
+### MAX@Home — Team Composition and Family Training
+
+#### Nurse + Counselor Model
+
+| Aspect | Detail |
+|---|---|
+| **Initial consultation** | MAX@Home typically deploys a **Palliative Care Nurse** for the primary assessment and care planning |
+| **Counselor support** | A counselor may not automatically join the *first* physical visit unless pre-requested. Their model does explicitly include emotional support and counselling for families as a core service — often delivered by social workers, psychologists, or the palliative care doctors during follow-ups or scheduled sessions |
+| **What to do** | Explicitly request a **family counselling session** when booking the initial assessment, so a counselor is included in the care plan from the start |
+| **Holistic care claim** | Their service description states a team of doctors, nurses, and caregivers collaborating to provide "emotional support for patients and families" and "compassionate counseling" |
+
+#### Family and Caregiver Training
+
+Training is a mandatory, integral part of the service — MAX@Home states they **"equip families with essential knowledge and practical training."**
+
+| Training Covers | Detail |
+|---|---|
+| **Ryle's tube care** | Flushing, feeding techniques, hygiene to prevent infection |
+| **Bedside nursing** | Turning to prevent bedsores, sponge bathing, oral care |
+| **Medication management** | Administering drugs safely |
+| **Emergency handling** | Recognising signs of distress or tube displacement |
+
+**Method:** "Demonstration and teach-back" — the nurse demonstrates the task, then watches the family member/caregiver perform it, to confirm competence before leaving them to manage independently between visits.
+
+#### Actionable Steps
+
+1. **Call MAX@Home** via their Noida/Delhi helpline or [website](https://www.maxathome.in/service/palliative-care-at-home/delhi).
+2. **Specific request to make:** *"I need a palliative care assessment for a bedridden, Ryle's tube-fed Parkinson's patient. I require a trained nurse for medical care and a counselor for family support. Please ensure the initial plan includes hands-on training for my family/attendant on tube feeding and bedsore prevention."*
+3. **Verify** whether the counselor visits physically or supports via phone/video — this can vary by case load.
+
+> As with other providers above, these claims are drawn from MAX@Home's own service description and should be confirmed directly with them at the time of booking.
+
+### Estimated Monthly Costs
+
+| Care Level | Estimated Cost |
+|---|---|
+| **24/7 trained nurse** (recommended for tube safety + bedsore prevention) | ₹45,000 – ₹70,000/month |
+| **12-hour nurse + 12-hour attendant** | ₹35,000 – ₹50,000/month |
+| **Daily visiting nurse** (tube care/meds only; family covers the rest) | ₹15,000 – ₹25,000/month |
+| **One-time palliative consultation** (to set up care plan) | ₹2,000 – ₹5,000 |
+
+> Costs are indicative estimates only and should be confirmed directly with providers.
+
+### Immediate Action Plan
+
+1. **Request a "Palliative Care Assessment"** — contact MAX@Home or Emoha and ask specifically for a nurse experienced in Ryle's tube management and bedsore prevention.
+2. **Equipment check** — hospital bed (for easy turning), suction machine (choking/aspiration risk), air mattress (ulcer prevention). Equipment rental agencies such as DBNC or Buddy Mobility can supply these.
+3. **Family support** — since the patient cannot talk, the emotional burden falls on the family. Ask whether the agency's package includes counselling for family members (many palliative teams include a social worker or counsellor).
 
 ---
 
