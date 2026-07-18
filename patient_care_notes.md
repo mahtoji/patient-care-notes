@@ -4,7 +4,7 @@
 
 > **Purpose:** Reference document for family caregivers and treating doctors. Update as condition or medications change.
 
-> **Last updated:** May 2026
+> **Last updated:** July 2026
 
 ---
 
@@ -19,6 +19,7 @@
 7. [CBD — Over the Counter Options](#7-cbd--over-the-counter-options)
 8. [Home Care Routines](#8-home-care-routines)
 9. [Professional Home Care Services](#9-professional-home-care-services)
+10. [Side Effects — Age-Specific Risk (87yo)](#10-side-effects--age-specific-risk-87yo)
 
 ---
 
@@ -719,6 +720,31 @@ Training is a mandatory, integral part of the service — MAX@Home states they *
 1. **Request a "Palliative Care Assessment"** — contact MAX@Home or Emoha and ask specifically for a nurse experienced in Ryle's tube management and bedsore prevention.
 2. **Equipment check** — hospital bed (for easy turning), suction machine (choking/aspiration risk), air mattress (ulcer prevention). Equipment rental agencies such as DBNC or Buddy Mobility can supply these.
 3. **Family support** — since the patient cannot talk, the emotional burden falls on the family. Ask whether the agency's package includes counselling for family members (many palliative teams include a social worker or counsellor).
+
+---
+
+## 10. Side Effects — Age-Specific Risk (87yo)
+
+Most likely side effects from the **current actual prescription** (Syndopa Plus, Dabigatran, Silodol, vitamins, eye drops), specifically for an 87-year-old bedridden male — not a general list, but what's actually likely to show up given his age and situation.
+
+| Medication | Most likely side effects at this age | Why it matters more here |
+|---|---|---|
+| **Syndopa Plus** (Levodopa/Carbidopa) | Confusion/hallucinations, nausea, drowsiness, orthostatic hypotension, dyskinesia with long-term use | Elderly Parkinson's patients are far more prone to Levodopa-induced confusion/hallucinations than younger patients — often the first sign of overdose or infection relapse |
+| **Dabigatran** | GI upset/dyspepsia (~10–15% of patients), and — the serious one — **bleeding** (GI or intracranial) | Bleeding risk rises sharply with age and any decline in kidney function, since it's 80% renally cleared. Highest-stakes side effect in his profile |
+| **Silodosin (Silodol)** | Dizziness, hypotension | Combines with other BP-lowering drugs in his regimen — real risk even though he's bedridden, since low BP reduces perfusion to kidneys, skin (pressure ulcer healing), and brain |
+| **Vitamin D3 / Shelcal (calcium)** | Constipation, and rarely hypercalcemia if over-supplemented | Constipation is already his biggest GI issue — calcium adds to that burden |
+| **Zincovit** | Mild GI upset/nausea | Low risk, usually well tolerated |
+| **Simbrinza** (Brinzolamide + Brimonidine) | Systemic absorption in elderly can cause drowsiness, dry mouth, and — from Brimonidine specifically — hypotension/bradycardia | Brimonidine is an alpha-agonist; frail elderly patients absorb more through the nasolacrimal duct and are more sensitive to its sedative/cardiovascular effects |
+| **Ganfort** (Bimatoprost + Timolol) | Bradycardia, hypotension, fatigue | Timolol is a beta-blocker — systemic absorption through the eye can meaningfully lower heart rate/BP, stacking with Silodosin's hypotensive effect |
+| **Netalo** (Netarsudil) | Local eye redness/irritation | Minimal systemic effect — lowest concern of the four drops |
+| **Systane** | None significant | Lubricant only |
+
+### Two Highest-Priority Concerns for His Age
+
+1. **Cumulative blood-pressure lowering** — Silodosin + Brimonidine (Simbrinza) + Timolol (Ganfort) all lower BP/heart rate through different routes. Individually mild, but stacked in an 87-year-old this can cause silent hypotension (same interaction flagged in Section 5).
+2. **Levodopa-induced confusion** — in patients his age, often mistaken for "just old age" or infection, when it's actually a medication effect (especially after a dose increase or if dehydrated/has a UTI).
+
+> Note: none of his current prescribed medications are anticholinergics (see [Anticholinergic Burden Review](#6-medications-to-avoid-and-add)) — that section is a precautionary watch-list, not a flag on anything he's currently taking.
 
 ---
 
